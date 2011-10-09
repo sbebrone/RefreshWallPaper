@@ -1,0 +1,11 @@
+RefreshWallpaper is a command line tool used to refresh the Windows Wallpaper.
+It was created to override the company's group policy which prevents us to change corporate wallpaper.
+
+Only JPEG images are supported right now.
+
+Usage:
+------
+RefreshWallpaper.exe "c:\foo\my_image.jpg"
+RefreshWallpaper.exe "c:\My Images Folder\"
+
+The second option will display a random image from the folder.
