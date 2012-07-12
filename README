@@ -7,5 +7,7 @@ Usage:
 ------
 RefreshWallpaper.exe "c:\foo\my_image.jpg"
 RefreshWallpaper.exe "c:\My Images Folder\"
+RefreshWallpaper.exe bing 
 
 The second option will display a random image from the folder.
+The third option will retrieve a random image from Bing RSS feed (output folder can be configured in the app.config file).
