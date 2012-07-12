@@ -1,8 +1,0 @@
-D:\Code\RefreshWallPaper\RefreshWallpaper\bin\Debug\RefreshWallpaper.exe.config
-D:\Code\RefreshWallPaper\RefreshWallpaper\bin\Debug\RefreshWallpaper.exe
-D:\Code\RefreshWallPaper\RefreshWallpaper\bin\Debug\RefreshWallpaper.pdb
-D:\Code\RefreshWallPaper\RefreshWallpaper\bin\Debug\AsyncCtpLibrary.dll
-D:\Code\RefreshWallPaper\RefreshWallpaper\bin\Debug\AsyncCtpLibrary.xml
-D:\Code\RefreshWallPaper\RefreshWallpaper\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Code\RefreshWallPaper\RefreshWallpaper\obj\x86\Debug\RefreshWallpaper.exe
-D:\Code\RefreshWallPaper\RefreshWallpaper\obj\x86\Debug\RefreshWallpaper.pdb
